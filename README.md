@@ -48,7 +48,7 @@ A beautiful, modern web application for tracking and locating IP addresses in re
 
 1. **Clone the repository**:
 ```bash
-git clone <repository-url>
+git clone https://github.com/codewithdhruba01/IP-AddressTracker.git
 cd ip-address-tracker
 ```
 
@@ -124,8 +124,20 @@ Currently uses OpenStreetMap. To switch to another provider:
 
 ## License
 
-MIT License - feel free to use this project for personal or commercial purposes.
+This project is licensed under the [MIT License](LICENSE).
 
+## Contributing
 
-Made with ❤️ using React, TypeScript, and Tailwind CSS
-"# IP-AddressTracker" 
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+---
+
+<div align="center">
+   
+⭐ If you find this project useful, please give it a star!
+
+**Built with ❤️ by Dhrubaraj Pati for developers**
+
+[Website](https://codewithdhruba.vercel.app/) • [GitHub](https://github.com/codewithdhruba01) • [Twitter](https://x.com/codewithdhruba)
+
+</div>
